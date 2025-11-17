@@ -16,11 +16,14 @@ Follow the steps below to execute the file.
 
 ---
 
-## 🔧 1. Install the Required Python Libraries
+##  1. Install the Required Python Libraries
 
-Make sure you are using Python 3. Then install the dependencies:
+Use Python 3. Then install the dependencies:
 
 ```bash
 pip install numpy scipy pandas matplotlib
 
 data.csv
+```
+## Run this file
+python Sachdeva_Prerna_Assignment5.py
