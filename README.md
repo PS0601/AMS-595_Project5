@@ -26,4 +26,4 @@ pip install numpy scipy pandas matplotlib
 data.csv
 ```
 ## Run this file
-python Sachdeva_Prerna_Assignment5.py
+Sachdeva_Prerna_Assignment5.py
